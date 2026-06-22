@@ -1,0 +1,9 @@
+# Ignore common files
+node_modules
+.env
+.DS_Store
+/dist
+/build
+
+# Mac
+*.DS_Store
